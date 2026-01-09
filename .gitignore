@@ -26,5 +26,4 @@ _testmain.go
 *.test
 *.prof
 .DS_Store
-.claude
 coverage.out
